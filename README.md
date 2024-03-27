@@ -1,1 +1,0 @@
-# jadenfurtado.github.io
