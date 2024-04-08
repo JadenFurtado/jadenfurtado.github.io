@@ -1,4 +1,4 @@
-= Hello World :)
+# Hello World :)
 
 I am Jaden Furtado. Welcome to my website!
 
